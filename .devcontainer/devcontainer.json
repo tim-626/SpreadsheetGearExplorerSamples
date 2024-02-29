@@ -28,7 +28,7 @@
 		},
 		"codespaces": {
 			"openFiles": [
-				"README.md"
+				"./.devcontainer/devcontainer.md"
 			]
 		}
 	},
