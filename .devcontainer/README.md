@@ -8,8 +8,8 @@ This codespace has been pre-configured to quickly and easily run the ASP.NET Cor
 * Click on the "Run and Debug" icon in the Side Bar.
 * Click the run icon next to the selected "Launch Web Explorer" item in this panel (or first select this option from the dropdown if it is not selected).
   * After building the project, a new browser tab may open to launch the app, but this might get blocked by your browser.  Allow popups in your browser to launch the Web Explorer web app.
-  * Alternatively, a notification may also appear in the bottom-right corner of the screen, prompting you to launch the web app from the provided port.
-  * Another alternative is to click on the "Ports" tab at the bottom of the screen and click on the "Open in Browser" icon (an icon of the globe) when hovering over the URL in the "Forwarded Address" column.
+  * Alternatively, a notification may also appear in the bottom-right corner of the codespace, providing you with an "Open in Browser" button to launch the web app.
+  * Another way to launch the app is to click on the "Ports" tab at the bottom of the screen and click on the "Open in Browser" icon (an icon of the globe) when hovering over the URL in the "Forwarded Address" column.
 
 Please note that the other sample projects (`WindowsFormsExplorer` and `WpfExplorer`) cannot be run in this codespace because they depend on Windows and this codespace runs on non-Windows OS.  
 
