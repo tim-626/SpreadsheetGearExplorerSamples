@@ -10,8 +10,8 @@ Product features demonstrated include:
   <li>
     Cell Formatting
     <ul style="columns: 3;">
-      <li>Fonts</li>
-      <li>Borders</li>
+      <li>[Fonts](SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/FontSample.code.cs)</li>
+      <li><a href="SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/BordersSample.code.cs">Borders</a></li>
       <li>Interior</li>
       <li>Orientation</li>
       <li>Hyperlinks</li>
