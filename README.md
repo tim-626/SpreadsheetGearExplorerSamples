@@ -18,7 +18,7 @@ Product features demonstrated include:
       <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/ValidationSample.code.cs">Validation</a></li>
       <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/CommentsSample.code.cs">Cell Comments</a></li>
       <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/NumberFormatsSample.code.cs">Number Formats</a></li>
-      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/ConditionalFormats/">Conditional Formatting</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/ConditionalFormats/">Conditional Formatting</a></li>
     </ul>
   </li>
   <li>
