@@ -10,15 +10,15 @@ Product features demonstrated include:
   <li>
     Cell Formatting
     <ul style="columns: 3;">
-      <li>[Fonts](SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/FontSample.code.cs)</li>
-      <li><a href="SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/BordersSample.code.cs">Borders</a></li>
-      <li>Interior</li>
-      <li>Orientation</li>
-      <li>Hyperlinks</li>
-      <li>Validation</li>
-      <li>Cell Comments</li>
-      <li>Number Formats</li>
-      <li>Conditional Formatting</li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/FontSample.code.cs">Fonts</a> (including <a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/RichTextSample.code.cs">Rich Text</a>)</li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/BordersSample.code.cs">Borders</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/InteriorSample.code.cs">Interior</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/OrientationSample.code.cs">Orientation</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/HyperlinksSample.code.cs">Hyperlinks</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/ValidationSample.code.cs">Validation</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/CommentsSample.code.cs">Cell Comments</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/NumberFormatsSample.code.cs">Number Formats</a></li>
+      <li><a href="./SamplesLibrary.Engine/Samples/Workbook/Worksheet/Range/Formatting/ConditionalFormats/">Conditional Formatting</a></li>
     </ul>
   </li>
   <li>
