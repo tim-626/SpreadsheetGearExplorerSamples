@@ -124,7 +124,8 @@ This product targets both .NET 6 (`net6.0`) and .NET Standard 2.0 (`netstandard2
 ### <img src="images/logo-windows-11.svg" style="width: 25px; vertical-align: middle;" alt="Logo for Windows 11"> SpreadsheetGear for Windows
 Builds on the capabilities of *SpreadsheetGear Engine for .NET* to add powerful Excel-compatible image rendering, viewing, editing, formatting, calculating, filtering, sorting, charting, printing and more to your Windows Forms and WPF applications with the easy-to-use WorkbookView and FormulaBar controls.  
 
-*SpreadsheetGear for Windows* targets .NET 6 for Windows (`net6.0-windows`).  This product includes a license to also use *SpreadsheetGear Engine for .NET*.
+> [!NOTE]
+> *SpreadsheetGear for Windows* targets .NET 6 for Windows (`net6.0-windows`).  This product includes a license to also use *SpreadsheetGear Engine for .NET*.
 
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their differences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
@@ -146,13 +147,15 @@ The Web Explorer presents *SpreadsheetGear Engine for .NET* samples using an ASP
 
 The WPF Explorer presents samples applicable to both the *SpreadsheetGear Engine for .NET* and *SpreadsheetGear for Windows* products in the context of a WPF Desktop App, where the WPF WorkbookView and FormulaBar controls are utilized to provide an interactive Excel-like experience when presenting the results of a given sample.  
 
-These samples target `net6.0-windows` and so require running on Windows with the *SpreadsheetGear for Windows* product.
+> [!NOTE]
+> These samples target `net6.0-windows` and so require running on Windows with the *SpreadsheetGear for Windows* product.
 
 ### Windows Forms Explorer Samples
 ![Screenshot of the WPF Explorer](WindowsFormsExplorer/screenshot.png)
 The Windows Forms Explorer presents samples applicable to both the *SpreadsheetGear Engine for .NET* and *SpreadsheetGear for Windows* products in the context of a Windows Forms Desktop App, where the Windows Forms WorkbookView and FormulaBar controls are utilized to provide an interactive Excel-like experience when presenting the results of a given sample.  
 
-These samples target `net6.0-windows` and so require running on Windows with the *SpreadsheetGear for Windows* product.
+> [!NOTE]
+> These samples target `net6.0-windows` and so require running on Windows with the *SpreadsheetGear for Windows* product.
 
 
 <a name="section-running-the-samples"></a>
