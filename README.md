@@ -125,7 +125,10 @@ This product targets both .NET 6 (`net6.0`) and .NET Standard 2.0 (`netstandard2
 Builds on the capabilities of *SpreadsheetGear Engine for .NET* to add powerful Excel-compatible image rendering, viewing, editing, formatting, calculating, filtering, sorting, charting, printing and more to your Windows Forms and WPF applications with the easy-to-use WorkbookView and FormulaBar controls.  
 
 > [!NOTE]
-> *SpreadsheetGear for Windows* targets .NET 6 for Windows (`net6.0-windows`).  This product includes a license to also use *SpreadsheetGear Engine for .NET*.
+> *SpreadsheetGear for Windows* targets .NET 6 for Windows (`net6.0-windows`).
+
+> [!NOTE]
+> *SpreadsheetGear for Windows* includes a license to also use *SpreadsheetGear Engine for .NET*.
 
 Learn more about these products on our [Features Page](https://www.spreadsheetgear.com/Products/Features) and more details on their differences on our [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
@@ -209,3 +212,11 @@ The below individual folders can also be opened in VSCode, and relevant options 
   - SpreadsheetGearExplorerSamples/WindowsFormsExplorer
 
 These folders also contain `*.code-workspace` files that you can open in VSCode (instead of opening the folder) if you would like to have all dependent projects included when viewing VSCode's Explorer Side Bar
+
+## Other Samples
+
+Additional samples can be found on the [spreadsheetgear.com](https://www.spreadsheetgear.com) website:
+
+  * [Live SpreadsheetGear API Samples](https://www.spreadsheetgear.com/Support/Samples/API)
+  * [Live Razor Page Samples](https://www.spreadsheetgear.com/Support/Samples/RazorPages)
+  * [Live Blazor Server Sample](https://www.spreadsheetgear.com/Support/Samples/Blazor/Server)
